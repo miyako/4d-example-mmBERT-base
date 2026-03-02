@@ -1,2 +1,2 @@
 # 4d-example-mmBERT-base
-mmBERT in GGUF, ONNX, CT2
+mmBERT in GGUF, ONNX
